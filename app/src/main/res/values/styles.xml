@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- THEME Style -->
+    <style name="modernart.theme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/modernart.actionBar</item>
+        <item name="actionBarStyle">@style/modernart.actionBar</item>
+        <item name="android:alertDialogStyle">@style/modernart.dialog</item>
+    </style>
+
+    <!-- ActionBar Style -->
+    <style name="modernart.actionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/SteelBlue</item>
+        <item name="background">@color/SteelBlue</item>
+    </style>
+
+    <style name="modernart.dialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="android:background">@color/SteelBlue</item>
+        <item name="android:windowBackground">@color/SteelBlue</item>
+        <item name="android:popupBackground">@color/SteelBlue</item>
+        <item name="background">@color/SteelBlue</item>
+    </style>
+
+</resources>

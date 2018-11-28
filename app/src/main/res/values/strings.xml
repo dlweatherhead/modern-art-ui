@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="action_settings">More Information</string>
+
+    <string name="dialog_description">Fibonacci Split.\n\nInspired by the works of artists at the Museum of Modern Art.\n\nClick below to learn more!</string>
+    <string name="dialog_true_selection">Visit MOMA</string>
+    <string name="dialog_cancellation">Not Now</string>
+</resources>
