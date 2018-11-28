@@ -1,7 +1,7 @@
 # Modern Art UI
 
 ## What is this?
-This is a project that needed to be completed for the Programming Mobile Applications for Android Handheld Systems: Part 2
+This is a project that needed to be completed for the Programming Mobile Applications for Android Handheld Systems: Part 1
 
 Completed: 2016
 
